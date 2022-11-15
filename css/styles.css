@@ -1,0 +1,162 @@
+#title{
+    background-color:black;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color:white;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: "Montserrat-thin";
+    font-size: 1.2rem;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    
+}
+#features{ 
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  
+}
+.feature-box{
+    text-align: center;
+    padding:0 2%;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+p{ 
+  color: #8f8f8f;
+  padding:0 5%;
+}
+.icon{
+    color: black;
+    margin-bottom: 1rem;
+}
+.icon:hover{ 
+    color: rgb(119, 113, 113);
+}
+#testimonials{
+    background-color:black;
+    text-align: center;
+   
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+h2{
+    line-height: 1.5;
+    font-size: 2rem;
+}
+.testimonial-image {
+    width: 20%;
+    
+    margin: 20px;
+}
+#press {
+    text-align: center;
+    background-color:black;
+}
+.press-logo{
+    width: 8%;
+    margin:0 30px;
+}
+.press-logoo{
+    width:5% ;
+   
+}
+.testimonial-imagee{
+    width: 10%;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 30px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.padding-column {
+    padding: 3% 2%;
+}
+@media (max-width:1000px) {
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+    
+}
+.tb{
+    text-align: right;
+}
+#title{
+    text-align: center;
+}
+#cta{
+    padding: 7% 15%;
+    color: white;
+    background-color:black;
+    text-align: center;
+}
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icons{
+    margin: 50px 10px;
+    
+    
+}
+
+.social-icons:hover{
+    color: rgb(98, 98, 230);
+}
+.gucci{
+    position: relative;
+    bottom: 13px;
+}
+.section-heading{
+    font-family: 'Montserrat', sans-serif;
+}
+#yuyu{
+    border-radius: 100%;
+    padding-right: 2%;
+}
+.yumaw{
+    padding: 3% 5%;
+}
